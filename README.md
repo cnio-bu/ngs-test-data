@@ -1,13 +1,14 @@
 # Snakemake workflow: ngs-test-data
 
 [![Snakemake](https://img.shields.io/badge/snakemake-≥4.2-brightgreen.svg)](https://snakemake.bitbucket.io)
-[![Build Status](https://travis-ci.org/snakemake-workflows/ngs-test-data.svg?branch=master)](https://travis-ci.org/snakemake-workflows/ngs-test-data)
+[![build status](https://gitlab.com/bu_cnio/ngs-test-data/badges/master/pipeline.svg)](https://gitlab.com/bu_cnio/ngs-test-data/commits/master)
 
 This workflow creates small test datasets for NGS data analyses. The generated data is available in the folders `ref` and `reads`, such that the repository can be directly used as a git submodule for continuous integration tests.
 
 ## Authors
 
-* Johannes Köster (@johanneskoester), https://koesterlab.github.io
+* Johannes Köster (@johanneskoester)
+* Tomás Di Domenico (@tdido)
 
 ## Usage
 
