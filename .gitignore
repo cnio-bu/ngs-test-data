@@ -21,3 +21,5 @@ scripts/.snakemake*
 !.editorconfig
 !.travis.yml
 !.test
+!ref
+!ref/captured_regions.bed
